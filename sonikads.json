@@ -4,13 +4,13 @@
     {
       "status_app":"0",
       "link_redirect":"http://",
-      "select_ads":"ADMOB",
+      "select_ads":"IRON",
       "select_backup_ads":"FAN",
       "backup_mode":"0",
-      "admob_openid":"ca-app-pub-3940256099942544/1033173712",
-      "admob_nativeid":"ca-app-pub-3940256099942544/2247696110",
-      "admob_interid":"ca-app-pub-3940256099942544/1033173712",
-      "admob_bannerid":"ca-app-pub-3940256099942544/6300978111",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
       "interval_intertitial":1,
       "fan_inter":"",
       "fan_banner":"",
@@ -21,7 +21,7 @@
       "mopub_mrec":"",
       "applovin_banner":"",
       "applovin_inter":"",
-      "ironkey":"1030c56e1",
+      "ironkey":"103679491",
       "inter_iron":"DefaultInterstitial",
       "banner_iron":"DefaultBanner"
      
